@@ -1,0 +1,16 @@
+W throttle up
+S throttle down
+A yaw left
+D yaw right
+I pitch up
+K pitch down
+J roll leftww
+L roll right
+
+G takeoff
+H land
+N cancel landing
+num0/P reset gimbal
+
+Z start auto-mission(not recommanded to try)
+X experimental codes
